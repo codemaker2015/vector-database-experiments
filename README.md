@@ -132,7 +132,7 @@ print(content_query_result.head())
 
 #### Screenshots 
 
-[screenshots](screenshots/chromadb-output.png)
+![screenshots](screenshots/chromadb-output.png)
 
 ## Pinecone
 
@@ -182,7 +182,7 @@ pinecone.delete_index("quickstart")
 
 #### Screenshots 
 
-[screenshots](screenshots/pinecone-output.png)
+![screenshots](screenshots/pinecone-output.png)
 
 ## Weaviate
 
@@ -258,7 +258,7 @@ print(json.dumps(response, indent=4))
 
 #### Screenshots 
 
-[screenshots](screenshots/weaviate-output.png)
+![screenshots](screenshots/weaviate-output.png)
 
 ## Pgvector
 
@@ -320,4 +320,4 @@ for neighbor in neighbors:
 
 #### Screenshots 
 
-[screenshots](screenshots/pgvector-output.png)
+![screenshots](screenshots/pgvector-output.png)
